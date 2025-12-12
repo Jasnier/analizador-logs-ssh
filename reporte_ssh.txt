@@ -1,0 +1,19 @@
+REPORTE DE ANALISIS DE LOG SSH
+-------------------------------
+
+Intentos fallidos totales: 12
+
+Intentos fallidos por IP:
+  admin: 3 intentos
+  test: 1 intentos
+  185.244.25.22: 4 intentos
+  backup: 1 intentos
+  91.200.12.16: 2 intentos
+  postgres: 1 intentos
+
+IP más agresiva: 185.244.25.22 (4 intentos)
+
+Usuarios inválidos:
+  oracle: 1 apariciones
+  guest: 1 apariciones
+  deploy: 1 apariciones
